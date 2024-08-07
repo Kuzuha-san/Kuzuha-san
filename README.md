@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Tech in computer science and engineering in Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kuzuha.san69@gmail.com
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: There is always alot to learn from the Internet because it changes with new information not in minutes, not in seconds but in every mili-seconds.
 
 <!---
