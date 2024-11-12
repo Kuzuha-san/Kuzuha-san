@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuzuha-san
+- 👋 Hi, I’m @Tanish
 - 👀 I’m interested in Anime, Technology and Computers
 - 🌱 I’m currently learning B.Tech in computer science and engineering in Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
